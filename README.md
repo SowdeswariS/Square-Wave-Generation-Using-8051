@@ -47,7 +47,8 @@ END
 ## Output:
 A square wave will be observed on the oscilloscope with a defined time period.
 
-<img width="1919" height="893" alt="image" src="https://github.com/user-attachments/assets/6d5a9322-0374-41a6-b9c4-1731c75b93e4" />
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/1fb6693b-745c-447d-93d5-9d4f55fdd453" />
+
 
 ## Result:
 The square wave generation using the 8051 microcontroller has been successfully implemented and simulated using Keil and Proteus.
