@@ -38,6 +38,7 @@ DELAY: MOV R7, #255  ; Outer loop
 
 END
 
+
 ## Simulation in Proteus:
 1.	Open Proteus and load the HEX file generated from Keil.
 2.	Connect P1.0 to an oscilloscope.
